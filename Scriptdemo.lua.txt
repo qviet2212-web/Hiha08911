@@ -52,3 +52,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-GravityHub/BloxFruit/refs/heads/main/Main.lua"))()
   end
   })
+  
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/qviet2212-web/Hiha08911/refs/heads/main/Scriptdemo.lua"))()
+  
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/DatThg/refs/heads/main/DatThgV2"))()
+  
+  loadstring(game:HttpGet("https://pastefy.app/XMcjaaIS/raw"))()
